@@ -1,4 +1,4 @@
-## Hi, I'm Geoge, a frontend developer specializing in React.
+# 👋Hi, I'm Geoge, a frontend developer specializing in React.
 
 ## Languages and Tools💼
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white)
