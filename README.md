@@ -1,16 +1,26 @@
-### Hi there 👋
+Header
 
-<!--
-**melnikga/melnikga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am a frontend developer specializing in React.
 
-Here are some ideas to get you started:
+## Languages and Tools💼
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-blue?style=for-the-badge&logo=Redux&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-white?style=for-the-badge&logo=Svelte)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js)
+![TS](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
+![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge&logo=Tailwind)
+![Tailwind](https://img.shields.io/badge/-ChakraUI-white?style=for-the-badge&logo=ChakraUI)
+![HTML5](https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Higher education🎓
+### Bachelor's Degree in Software Engineering
+
+## 🥊Codewars
+
+
+## Contact me
+![Telegarm](https://img.shields.io/badge/-TG-white?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fcamodyp) 
+### ✉️belovedholy@gmail.com
