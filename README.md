@@ -19,7 +19,7 @@ Header
 ### Bachelor's Degree in Software Engineering
 
 ## 🥊Codewars
-
+![codewars](https://github.com/melnikga/melnikga/blob/main/assets/codewars.png)
 
 ## Contact me
 ![Telegarm](https://img.shields.io/badge/-TG-white?style=for-the-badge&logo=Telegram&link=https%3A%2F%2Ft.me%2Fcamodyp) 
