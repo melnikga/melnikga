@@ -1,4 +1,4 @@
-# 👋Hi, I'm George, a frontend developer specializing in React.
+# 👋Hi, I'm George, a fullstack blockchain developer.
 
 ## Languages and Tools💼
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white)
@@ -19,4 +19,4 @@
 
 ## Contact me
 [![Telegarm](https://img.shields.io/badge/-Telegarm-white?style=for-the-badge&logo=Telegram&link=https://t.me/camodyp)](https://t.me/camodyp)
-### ✉️belovedholy@gmail.com
+### ✉️tknlz.pr@gmail.com
