@@ -16,8 +16,6 @@
 ## Higher education🎓
 ### Bachelor's Degree in Software Engineering
 
-## 🥊Codewars
-![codewars](https://github.com/melnikga/melnikga/blob/main/assets/codewars.png)
 
 ## Contact me
 [![Telegarm](https://img.shields.io/badge/-Telegarm-white?style=for-the-badge&logo=Telegram&link=https://t.me/camodyp)](https://t.me/camodyp)
